@@ -1,5 +1,5 @@
-=== Akismet ===
-Contributors: 
+=== skitst ===
+
 Tags: akismet, comments, spam, antispam, anti-spam, anti spam, comment moderation, comment spam, contact form spam, spam comments
 Requires at least: 3.2
 Tested up to: 4.3.1
