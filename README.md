@@ -35,11 +35,8 @@ When the execution has succeded, you can access your local installation.
 
 
 ## Contributing
-We welcome everyone to contribute to this project. Below are some of the things that you can do to contribute.
+We welcome everyone to contribute to this project.
 
-Read our contributing guide.
-Fork us and request a pull to the develop branch.
-Submit bug reports or feature requests to GitHub.
 
 ## License
 
