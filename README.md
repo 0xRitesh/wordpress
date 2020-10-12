@@ -44,3 +44,8 @@ Submit bug reports or feature requests to GitHub.
 ## License
 
 GPL-3.0 License
+
+## Credits
+
+Directory layout heavily inspired by roots/bedrock Development stack inspired by VVV
+
