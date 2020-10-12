@@ -41,6 +41,6 @@ Read our contributing guide.
 Fork us and request a pull to the develop branch.
 Submit bug reports or feature requests to GitHub.
 
-#License
+## License
 
 GPL-3.0 License
