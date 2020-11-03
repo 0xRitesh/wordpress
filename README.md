@@ -44,5 +44,5 @@ GPL-3.0 License
 
 ## Credits
 
-Directory layout heavily inspired by roots/bedrock Development stack inspired by VVV
+Directory layout heavily inspired by roots| bedrock Development stack inspired by VVV
 
